@@ -3,21 +3,21 @@
 
 ## Features
 
-- [x] 🔥 New feature : 
-    - [+] ⚡️ Support 2GB + Files ⚡️
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
+- [x]  New feature : 
+⚒️Support 2GB + Files⚒️
+- [x] Auto Filter👑
+- [x] Manual Filter👑
+- [x] IMDB👑
+- [x] Admin Commands👑
+- [x] Broadcast👑
+- [x] Index💹
+- [x] IMDB search😎
+- [x] Inline Search⚒️
+- [x] Random pics🤝
+- [x] ids and User info 🐦
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] File Store
+- [x] Spelling Check Feature👑
+- [x] File Store🐦
 ## • What's New ?
 
 - [x] URL Shortener Added
@@ -117,22 +117,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
 
 ## with Love  
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
-
-
-## Thanks to 
- - 🦋 Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤️.
- - 🔺 From the side of [LazyDeveloper](https://github.com/LazyDeveloperr) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
- - 🔺 Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
- - 🔺 Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot).
- - 🔺 Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot).
- - Thanks To All Everyone In This Journey
-
+* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper
 ### Note
 
 [Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
