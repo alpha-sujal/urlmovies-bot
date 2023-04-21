@@ -1,5 +1,5 @@
 services :
-  - type : main
+  - type : web
     name : alpha-sujal
     env : python
     plan : free
