@@ -11,7 +11,7 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'LazyPrincess')
+SESSION = environ.get('SESSION', 'https://t.me/ary_botz')
 API_ID = int(environ.get('API_ID', '13323016'))
 API_HASH = environ.get('API_HASH', '68e791e616100248b0a53ae86a661a12')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
@@ -22,7 +22,7 @@ PORT = environ.get("PORT", "8080")
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/61367ff9067872ef9c1d4.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/634464af6a611ec482d6f.jpg')).split()
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5203973507').split()]
