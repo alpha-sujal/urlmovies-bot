@@ -3,7 +3,7 @@ services :
     name : alpha-sujal
     env : python
     plan : free
-    repo : https://github.com/alpha-sujal/urlmovies-bot
+    repo : https://github.com/aryan8292/automega
     buildCommand : pip3 install -r requirements.txt --no-cache-dir
     startCommand : python3 bot.py
     envVars :
