@@ -60,22 +60,7 @@ You can deploy this bot anywhere.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/zRitsu/disnake-LL-music-bot/tree/main)
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincessv2&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincessv2">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincessv2
+<
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -113,12 +98,3 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
-
-## with Love  
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper
-### Note
-
-[Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
