@@ -58,9 +58,8 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/zRitsu/disnake-LL-music-bot/tree/main)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/aryan8292/automega)
 
-<
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
